@@ -6,7 +6,7 @@ using System.Web;
 
 namespace TatilSeyahatSitesiProjesi.Models.Sınıflar
 {
-    public class Adres
+    public class AdresBlog
     {
         [Key]
         public int ID { get; set; }
